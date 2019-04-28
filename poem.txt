@@ -1,5 +1,6 @@
 Rainbow
 violet
 Green
+Blue
 yellow
 Orange
